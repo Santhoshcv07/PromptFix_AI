@@ -135,3 +135,92 @@ Future versions will include:
 - User authentication
 - Saved favorites
 - Export options
+
+
+# 🔄 How It Works
+
+PromptFix AI follows a simple yet powerful workflow to transform ordinary prompts into professional AI prompts.
+
+```mermaid
+flowchart LR
+
+A[👤 User Enters Prompt]
+--> B[📝 Prompt Analysis]
+
+B
+--> C[🧠 AI Enhancement Engine]
+
+C
+--> D[✨ Prompt Optimization]
+
+D
+--> E[📋 Structured Prompt]
+
+E
+--> F[📄 Copy to Clipboard]
+
+F
+--> G[🤖 Use in ChatGPT / Gemini / Claude]
+```
+
+---
+
+## 📖 Workflow
+
+### 1️⃣ User Input
+The user enters a simple or incomplete prompt.
+
+Example:
+
+> Build me a portfolio website.
+
+---
+
+### 2️⃣ Prompt Analysis
+
+PromptFix AI identifies:
+
+- Missing details
+- Context
+- Objectives
+- Constraints
+- Output format
+- Tone
+- Target audience
+
+---
+
+### 3️⃣ AI Enhancement
+
+The AI restructures the prompt using prompt engineering best practices.
+
+It automatically improves:
+
+- clarity
+- specificity
+- context
+- formatting
+- completeness
+
+---
+
+### 4️⃣ Optimized Prompt
+
+The generated prompt becomes much more detailed and AI-friendly.
+
+Example:
+
+> Create a modern responsive portfolio website for a software engineer using React, TypeScript, and Tailwind CSS. Include a hero section, skills, featured projects, testimonials, contact form, dark mode, smooth animations, and SEO optimization.
+
+---
+
+### 5️⃣ Copy & Use
+
+Copy the optimized prompt with one click and use it in any supported AI platform such as:
+
+- ChatGPT
+- Gemini
+- Claude
+- DeepSeek
+- Microsoft Copilot
+- Perplexity AI
